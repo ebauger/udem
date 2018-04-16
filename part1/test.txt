@@ -1,0 +1,17 @@
+Bonjour, je suis ici pour tester le programme de Etienne B. Auger.
+Les entête des la BD peuvent être /product/ ou /produit/.
+/produit/ VRAI 1
+/product/ VRAI 1
+/produit/ /product/ VRAI 2
+/produit/ VRAI 1
+/product/ VRAI 1
+/produit/ /product/ VRAI 2
+/produit/ /catalog/ VRAI 2
+
+#/produit/ 
+;/product/ 
+#/produit/ /product/ 
+;/produit/ 
+#/product/ 
+;/produit/ /product/ 
+#/produit/ /catalog/ 
