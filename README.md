@@ -39,7 +39,7 @@ Recommandation : Si vous avez à trier plusieurs fois vos cartes selon la situat
 
 ## Part 1 : (Simple) Data Processing
 
-Use documentations
+How to
 
 ```
 $ cd part1
@@ -62,4 +62,7 @@ $ pytest test_parser.py -s
 
 ## Part 2 : SQL
 
-In progress
+I use MySQL 5.7.21
+
+See `create.sql` and `req.sql`
+
