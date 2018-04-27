@@ -1,10 +1,28 @@
-# udem
-udem
+# UdeM - Technical interview, Level 1
 
-Part1
+## Part 1 : (Simple) Data Processing
 
-Une fonctionne pas complète pour le point 3 et 4
+Use documentations
 
-Part2
+```
+$ cd part1
+$ chmod u+x parser.py
+$ parser.py -i <file1> [-i file2[, -i fileN]]
+```
 
-Schema de la BD faite. Pas de requête fonctionnelle.
+Test with the actual text files:
+
+```
+$parser.py -i test.txt -i test2.txt -i test3.txt -i test4.txt
+```
+
+Run partial unit test (in progress)
+
+```
+$ pip3 install -U pytest
+$ pytest test_parser.py -s
+```
+
+## Part 2 : SQL
+
+In progress

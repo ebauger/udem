@@ -1,2 +1,3 @@
 Bonjour, je 1 ici pour tester 4.2 programme de Etienne B. Auger.
 Les entête des la 3.2 peuvent être /product/ ou /produit/.
+
